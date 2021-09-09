@@ -1,2 +1,2 @@
 # WELCOME TO Cloud72
-## Create Unique Static Page
+### Create Unique Static Page
